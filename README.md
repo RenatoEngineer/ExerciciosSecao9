@@ -1,2 +1,3 @@
-# ExerciciosSecao9
-Exercícios Seção 9
+# .:: Exercicios Seção 9 ::.
+
+#### 1- Crie uma função que recebe como parâmetro um número inteiro e devolve o seu dobro.
