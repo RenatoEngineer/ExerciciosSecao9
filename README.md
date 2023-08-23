@@ -33,3 +33,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex008.c)
 
+#### 9- Faça uma função que receba a altura e o raio de um cilindro circular e retorne o volume do cilindro. O volume de um cilindro circular é calculado por meio da seguinte fórmula: 𝑉=𝜋∗𝑟𝑎𝑖𝑜²∗𝑎𝑙𝑡𝑢𝑟𝑎, onde 𝜋=3.141592.
+
+[Resposta](./ExerciciosResolvidos/ex009.c)
+
