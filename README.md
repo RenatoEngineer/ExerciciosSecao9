@@ -37,3 +37,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex009.c)
 
+#### 10- Faça uma função que receba dois números e retorne qual deles é o maior.
+
+[Resposta](./ExerciciosResolvidos/ex010.c)
+
