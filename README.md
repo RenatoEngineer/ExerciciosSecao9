@@ -62,3 +62,14 @@
 
 [Resposta](./ExerciciosResolvidos/ex014.c)
 
+#### 15- Crie um programa que receba três valores (obrigatoriamente maiores que zero), representando as medidas dos três lados de um triângulo. Elabore funções para:
+**<p>(a) Determinar se eles lados formam um triângulo, sabendo que:</p>**
+**<p>• O Comprimento de cada lado de um triângulo é menor do que a soma dos outros dois lados.</p>**
+**<p>(b) Determinar e mostrar o tipo de triângulo, caso as medidas formem um triângulo.</p>**
+**<p>Sendo que:</p>**
+**<p>• Chama-se equilátero o triângulo que tem três lados iguais.</p>**
+**<p>• Denominam-se isósceles o triângulo que tem o comprimento de dois lados iguais.</p>**
+**<p>• Recebe o nome de escaleno o triângulo que tem os três lados diferentes.</p>**
+
+[Resposta](./ExerciciosResolvidos/ex015.c)
+
