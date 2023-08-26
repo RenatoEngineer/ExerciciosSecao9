@@ -53,3 +53,12 @@
 
 [Resposta](./ExerciciosResolvidos/ex013.c)
 
+#### 14- Faça uma função que receba a distância em Km e a quantidade de litros de gasolina consumidos por um carro em um percurso, calcule o consumo em Km/l e escreva uma mensagem de acordo com a tabela abaixo:
+
+**<p>COMSUMO		(Km/l)		MENSAGEM</p>**
+**<p>menor que		8		Venda o carro!</p>**
+**<p>entre		8 e 14		Econômico!</p>**
+**<p>maior que		12		Super econômico!</p>**
+
+[Resposta](./ExerciciosResolvidos/ex014.c)
+
