@@ -73,3 +73,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex015.c)
 
+#### 16- Faça uma função chamada DesenhaLinha. Ele deve desenhar uma linha na tela usando vários símbolos de igual (Ex.: ========). A função recebe por parâmetro quantos sinais de igual serão mostrados.
+
+[Resposta](./ExerciciosResolvidos/ex016.c)
+
