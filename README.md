@@ -89,3 +89,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex019.c)
 
+#### 20- Faça um algoritmo que receba um número inteiro positivo n e calcule o seu fatorial, n!.
+
+[Resposta](./ExerciciosResolvidos/ex020.c)
+
