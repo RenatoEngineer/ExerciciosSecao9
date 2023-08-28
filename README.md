@@ -85,3 +85,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex018.c)
 
+#### 19- Faça uma função que retorne o maior fator primo de um número.
+
+[Resposta](./ExerciciosResolvidos/ex019.c)
+
