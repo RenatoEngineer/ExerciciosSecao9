@@ -132,3 +132,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex025.c)
 
+#### 26- Faça um algoritmo que receba um número inteiro positivo n e calcule o somatório de 1 até n.
+
+[Resposta](./ExerciciosResolvidos/ex026.c)
+
