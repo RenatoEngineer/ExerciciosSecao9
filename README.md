@@ -156,4 +156,5 @@
 **<p> </p>**
 **<p>onde x é o valor do ângulo em radianos. Considerar 𝜋=3.141593 e n variando de 0 até 5.</p>**
 
-[Resposta](./ExerciciosResolvidos/ex027.c)
+[Resposta](./ExerciciosResolvidos/ex028.c)
+
