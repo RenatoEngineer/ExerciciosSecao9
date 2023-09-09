@@ -168,3 +168,15 @@
 **<p>onde x é o valor do ângulo em radianos. Considerar π = 3.141593 e n variando de 0 até 5.</p>**
 
 [Resposta](./ExerciciosResolvidos/ex029.c)
+
+#### 30- Faça uma função que receba como parâmetro o valor de um ângulo em graus e calcule o valor do cosseno hiperbólico desse ângulo usando sua respectiva série de Taylor:
+**<p> </p>**
+**<p> &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 2n &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 2 &ensp; &ensp; &ensp; &ensp; 4</p>**
+**<p> &ensp; &ensp; &ensp; &ensp; &ensp; ∞ &ensp; &ensp; &ensp; x  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; x &ensp; &ensp; &ensp; &ensp;   x</p>**
+**<p>cosh x = ∑ &ensp; &ensp;  ̶ ̶  ̶ ̶  ̶ ̶  ̶ ̶  ̶&ensp; &ensp; = &ensp; 1 &ensp; - &ensp; ̶ ̶ ̶  ̶ ̶  ̶ ̶  &ensp; + &ensp; ̶ ̶ ̶  ̶ ̶  ̶ ̶  &ensp; + ... para todo x,</p>**
+**<p> &ensp; &ensp; &ensp; &ensp; n=0 &ensp; &ensp; (2n)! &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 2! &ensp; &ensp; &ensp; &ensp; 4!</p>**
+**<p> </p>**
+**<p>onde x é o valor do ângulo em radianos. Considerar π = 3.141593 e n variando de 0 até 5.</p>**
+
+[Resposta](./ExerciciosResolvidos/ex030.c)
+
