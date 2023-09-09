@@ -192,3 +192,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex032.c)
 
+#### 33- Faça uma função que receba um número N e retorne a soma dos algarismos de N!. Ex.: se N = 4, N! = 24. Logo, a soma de seus algarismos é 2 + 4 = 6.
+
+[Resposta](./ExerciciosResolvidos/ex033.c)
+
