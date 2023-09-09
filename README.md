@@ -180,3 +180,12 @@
 
 [Resposta](./ExerciciosResolvidos/ex030.c)
 
+#### 31- Faça uma função para calcular o número neperiano usando uma série. A função deve ter como parâmetro o número de termos que serão somados (note que, quanto maior o número, mais próxima a resposta estará do valor e).
+**<p> </p>**
+**<p>&ensp;&ensp;&ensp;&ensp;&ensp;∞&ensp;&ensp;&ensp;1&ensp;&ensp;&ensp;&ensp;&ensp;1&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1</p>**
+**<p>&ensp;l&ensp;=&ensp;∑&ensp;&ensp; ̶ ̶ ̶  ̶&ensp; = &ensp; ̶ ̶ ̶  &ensp; + &ensp; ̶ ̶ ̶  &ensp; + &ensp; ̶ ̶ ̶  &ensp; + &ensp; ̶ ̶ ̶  &ensp; + &ensp; ̶ ̶ ̶  &ensp; ...</p>**
+**<p>&ensp;&ensp;&ensp;&ensp;n=0&ensp;&ensp;n!&ensp;&ensp;&ensp;&ensp;0!&ensp;&ensp;&ensp;&ensp;&ensp;1!&ensp;&ensp;&ensp;&ensp;&ensp;2!&ensp;&ensp;&ensp;&ensp;&ensp;3!&ensp;&ensp;&ensp;&ensp;&ensp;4!</p>**
+
+[Resposta](./ExerciciosResolvidos/ex031.c)
+
+
