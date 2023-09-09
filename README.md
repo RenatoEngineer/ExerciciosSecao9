@@ -196,3 +196,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex033.c)
 
+#### 34- Faça uma função não-recursiva que receba um número inteiro positivo impar N e retorne o fatorial duplo desse número. O fatorial duplo é definido como o produto de todos os números naturais ímpares de 1 até algum número natural ímpar N. Assim, o fatorial duplo de 5 é: 5!! = 1 * 3 * 5 = 15
+
+[Resposta](./ExerciciosResolvidos/ex034.c)
+
