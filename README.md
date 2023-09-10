@@ -204,3 +204,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex035.c)
 
+#### 36- Faça uma função não-recursiva que receba um número inteiro positivo N e retorne o superfatorial desse número. O superfatorial de um número N é definida pelo produto dos N primeiros fatoriais de N. Assim, o superfatorial de 4 é sf(4) = 1! * 2! * 3! * 4! = 288.
+
+[Resposta](./ExerciciosResolvidos/ex036.c)
+
