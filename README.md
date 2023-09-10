@@ -200,3 +200,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex034.c)
 
+#### 35- Faça uma função não-recursiva que receba um número inteiro positivo n e retorne o fatorial quádruplo desse número. O fatorial quádruplo de um número n é dado por: (2n)!/n!
+
+[Resposta](./ExerciciosResolvidos/ex035.c)
+
