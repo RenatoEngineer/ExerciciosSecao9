@@ -219,7 +219,7 @@
 #### 38- Faça uma função não-recursiva que receba um número inteiro positivo n e retorne o fatorial exponencial desse número. Um fatorial exponencial é um inteiro positivo n elevado à potência de n – 1, que por sua vez é elevado à potência de n – 2 e assim em diante. Ou seja:
 **<p> </p>**
 **<p>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;(n-2)...</p>**
-**<p>&ensp;(n-1)</p>**
+**<p>&ensp;&ensp;(n-1)</p>**
 **<p>n</p>**
 
 [Resposta](./ExerciciosResolvidos/ex038.c)
