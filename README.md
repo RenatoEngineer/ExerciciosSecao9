@@ -208,3 +208,12 @@
 
 [Resposta](./ExerciciosResolvidos/ex036.c)
 
+#### 37- Faça uma função não-recursiva que receba um número inteiro positivo n e retorne o hiperfatorial desse número. O hiperfatorial de um número n, escrito H(n), é definido por:
+**<p> </p>**
+**<p>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;n&ensp;&ensp;k&ensp;&ensp;&ensp;&ensp;1&ensp;&ensp;&ensp;2&ensp;&ensp;&ensp;3&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;n - 1&ensp;&ensp;&ensp;n</p>**
+**<p>H(n)&ensp;=&ensp;&ensp;Π&ensp;&ensp;k&ensp;&ensp;=&ensp;1&ensp;.&ensp;2&ensp;.&ensp;3&ensp;...&ensp;(n&ensp;-&ensp;1)&ensp;&ensp;&ensp;&ensp;.&ensp;n</p>**
+**<p>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;k=1</p>**
+
+[Resposta](./ExerciciosResolvidos/ex037.c)
+
+
