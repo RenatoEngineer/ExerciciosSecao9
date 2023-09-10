@@ -227,3 +227,7 @@
 #### 39- Faça uma função ‘Troque’, que recebe duas variáveis reais A e B e troca o valor delas (i.e., A recebe o valor de B e B recebe o valor de A).
 
 [Resposta](./ExerciciosResolvidos/ex039.c)
+
+#### 40- Faça uma função que receba um vetor de inteiros e retorne quantos valores pares ele possui.
+
+[Resposta](./ExerciciosResolvidos/ex040.c)
