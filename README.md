@@ -231,3 +231,7 @@
 #### 40- Faça uma função que receba um vetor de inteiros e retorne quantos valores pares ele possui.
 
 [Resposta](./ExerciciosResolvidos/ex040.c)
+
+#### 41- Faça uma função que receba um vetor de inteiros e retorne o maior valor.
+
+[Resposta](./ExerciciosResolvidos/ex041.c)
