@@ -235,3 +235,7 @@
 #### 41- Faça uma função que receba um vetor de inteiros e retorne o maior valor.
 
 [Resposta](./ExerciciosResolvidos/ex041.c)
+
+#### 42- Faça uma função que receba um vetor de reais e retorne a média dele.
+
+[Resposta](./ExerciciosResolvidos/ex042.c)
