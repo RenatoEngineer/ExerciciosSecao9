@@ -239,3 +239,8 @@
 #### 42- Faça uma função que receba um vetor de reais e retorne a média dele.
 
 [Resposta](./ExerciciosResolvidos/ex042.c)
+
+#### 43- Faça uma função que receba um vetor de inteiros e o preencha com números aleatórios sem repetição.
+
+[Resposta](./ExerciciosResolvidos/ex043.c)
+
