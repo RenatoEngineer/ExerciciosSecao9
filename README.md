@@ -258,3 +258,10 @@
 
 [Resposta](./ExerciciosResolvidos/ex045.c)
 
+#### 46- Crie um programa contendo as seguintes funções que recebem um vetor V números reais como parâmetro:
+**<p>•Impressão normal do vetor.</p>**
+**<p>•Impressão inversa.</p>**
+**<p>•Função que retorna a média aritmética dos elementos do vetor.</p>**
+
+[Resposta](./ExerciciosResolvidos/ex046.c)
+
