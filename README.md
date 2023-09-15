@@ -248,3 +248,13 @@
 
 [Resposta](./ExerciciosResolvidos/ex044.c)
 
+#### 45- Faça uma função em C, que calcule o desvio padrão de um vetor v contendo n números
+**<p> </p>**
+**<p>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 1&ensp;&ensp;&ensp;&ensp; n&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2</p>**
+**<p>Desvio Padrao √&ensp; ̶ ̶ ̶  &ensp;&ensp;&ensp;Σ&ensp;&ensp;&ensp;(v[i] - m)</p>**
+**<p>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;n-1 &ensp;&ensp;i=1</p>**
+**<p> </p>**
+**<p>onde m é a média do vetor.</p>**
+
+[Resposta](./ExerciciosResolvidos/ex045.c)
+
