@@ -289,3 +289,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex052.c)
 
+#### 53- Faça uma função que verifica se uma matriz quadrada de ordem N é a matriz identidade.
+
+[Resposta](./ExerciciosResolvidos/ex053.c)
+
