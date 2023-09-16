@@ -293,3 +293,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex053.c)
 
+#### 54- Faça uma função que recebe, por parâmetro, uma matriz A[4][4] e retorna a soma dos seus elementos.
+
+[Resposta](./ExerciciosResolvidos/ex054.c)
+
