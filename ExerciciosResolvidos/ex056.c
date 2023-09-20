@@ -29,9 +29,18 @@ int main(){
 	fflush(stdout);
 	for (int i = 0; i < 7; i++){
 		for (int j = 0; j < 6; j++){
-			printf("\nA[%d][%d]:", i, j);
+			printf("A[%d][%d] ", i, j);
 			scanf("%d", &matriz[i][j]);
 		}
+		printf("\n");
+	}
+
+	printf("\n\n.:: Matriz Digitada ::.\n\n");
+	for (int i = 0; i < 7; i++){
+		for (int j = 0; j < 6; j++){
+			printf("%d\t", matriz[i][j]);
+		}
+		printf("\n");
 	}
 
 	printf("\n\nDigite o Numero da Linha (0 a 6): ");
