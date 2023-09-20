@@ -308,3 +308,8 @@
 #### 57- Faça uma função que recebe, por parâmetro, uma matriz A[7][6] e uma coluna N e retorne a soma dos elementos dessa coluna.
 
 [Resposta](./ExerciciosResolvidos/ex057.c)
+
+#### 58- Faça uma função que receba, por parâmetro, duas matrizes quadradas de ordem N, A e B, e retorna uma matriz C, também por parâmetro, que seja o produto matricial de A e B.
+
+[Resposta](./ExerciciosResolvidos/ex058.c)
+
