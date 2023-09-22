@@ -321,3 +321,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex060.c)
 
+#### 61- Escreva uma função que compare e retorne verdadeiro, caso uma string seja anagrama da outra, e falso, caso contrário.
+
+[Resposta](./ExerciciosResolvidos/ex061.c)
+
