@@ -341,3 +341,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex065.c)
 
+#### 66- Faça uma função que dado um caractere qualquer retorne o mesmo caractere sempre em maiúsculo.
+
+[Resposta](./ExerciciosResolvidos/ex066.c)
+
