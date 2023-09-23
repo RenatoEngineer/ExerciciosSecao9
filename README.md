@@ -353,3 +353,11 @@
 
 [Resposta](./ExerciciosResolvidos/ex068.c)
 
+#### 69- Faça um programa que faça operações simples de frações:
+**<p>•Crie e leia duas frações p e q, compostas por numerador e denominador.</p>**
+**<p>•Encontre o máximo divisor comum entre o numerador e o denominador, e simplifique as frações.</p>**
+**<p>•Apresente a soma, a subtração, o produto e o quociente entre as frações lidas.</p>**
+**<p>Obs.: Crie uma função para cada item.</p>**
+
+[Resposta](./ExerciciosResolvidos/ex069.c)
+
