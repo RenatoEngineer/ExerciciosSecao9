@@ -329,3 +329,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex062.c)
 
+#### 63- Crie uma função que comprara duas strings e que retorna se elas são iguais ou diferentes.
+
+[Resposta](./ExerciciosResolvidos/ex063.c)
+
