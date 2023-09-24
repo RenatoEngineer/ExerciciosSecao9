@@ -377,3 +377,16 @@
 
 [Resposta](./ExerciciosResolvidos/ex070.c)
 
+#### 71- Considerando a estrutura:
+**<p> </p>**
+**<p>struct Ponto{</p>**
+**<p>int x;</p>**
+**<p>int y;</p>**
+**<p>};</p>**
+**<p> </p>**
+**<p>para representar um ponto em uma grade 2D, implemente uma função que identifique se um ponto p está localizado dentro ou fora de um retângulo. O retângulo é definido por seus vértices inferior esquerdo v1 e superior direito v2. A função deve retornar 1 caso o ponto esteja localizado dentro do retângulo e 0 caso contrário. Essa função deve obedecer ao protótipo:</p>**
+**<p> </p>**
+**<p>int dentroRet (struct Ponto* v1, struct Ponto* v2, struct Ponto* p);</p>**
+
+[Resposta](./ExerciciosResolvidos/ex071.c)
+
