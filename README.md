@@ -361,3 +361,19 @@
 
 [Resposta](./ExerciciosResolvidos/ex069.c)
 
+#### 70- Um racional é qualquer número da forma p/q, sendo p inteiro e q inteiro não nulo. É conveniente representar um racional por um registro:
+**<p> </p>**
+**<p>struct racional{</p>**
+**<p>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;int p, q;</p>**
+**<p>};</p>**
+**<p> </p>**
+**<p>Vamos convencionar que o campo q de todo racional é estritamente positivo e que o máximo divisor comum dos campos p e q é 1. Escreva:</p>**
+**<p> </p>**
+**<p>(a) uma função reduz que receba inteiros a e b e devolva o racional que representa a/b;</p>**
+**<p>(b) uma função neg que receba um racional x e devolva o racional -x;</p>**
+**<p>(c) uma função soma que receba racionais x e y e devolva o racional que representa a soma de x e y;</p>**
+**<p>(d) uma função mult que receba racionais x e y e devolva o racional que representa o produto de x por y;</p>**
+**<p>(e) uma função div que receba racionais x e y e devolva o racional que representa o quociente de x por y;</p>**
+
+[Resposta](./ExerciciosResolvidos/ex070.c)
+
