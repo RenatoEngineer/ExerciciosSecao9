@@ -15,9 +15,9 @@ struct Ponto{
 };
 
 //Verifica se um Ponto esta dentro de um retangulo
-int dentroRetangulo(struct Ponto v1, struct Ponto v2, struct Ponto p){
+int dentroRetangulo(struct Ponto* v1, struct Ponto* v2, struct Ponto* p){
 	//Verifica se as Coordenadas do ponto p estao dentro dos limites do retangulo
-	if (p.x >= v1.x && p.x <= v2.x && p.y >= v1.y && p.y <= v2.y){
+	if (p->x >= v1->x && p->x <= v2->x && p->y >= v1->y && p->y <= v2->y){
 		return 1; //O ponto esta dentro do retangulo
 	} else {
 		return 0; //O ponto esta fora do retangulo
@@ -65,7 +65,7 @@ int main(){
 	scanf("%d", &p.y);
 
 	//Chama a Funcao dentroRetangulo para verficar se o ponto esta dentro do retangulo
-	if (dentroRetangulo(v1, v2, p)){
+	if (dentroRetangulo(&v1, &v2, &p)){
 		printf("\nO Ponto (%d, %d) esta dentro do Retangulo!!!\n", p.x, p.y);
 	} else {
 		printf("\nO Ponto (%d, %d) esta fora do Retangulo!!!\n", p.x, p.y);
