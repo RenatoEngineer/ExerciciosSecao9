@@ -400,7 +400,7 @@ int dentroRet (struct Ponto* v1, struct Ponto* v2, struct Ponto* p);
 **<p> </p>**
 **<p>para representar um vetor no R³, implemente uma função que calcule a soma de dois vetores. Essa função deve obedecer ao protótipo:</p>**
 **<p> </p>**
-**<p>void soma (struct Vetor* v1, struct Vetor* v2, struct Vetor* res);</p>**
+void soma (struct Vetor* v1, struct Vetor* v2, struct Vetor* res);
 **<p> </p>**
 **<p>onde os parâmetros v1 e v2 são ponteiros para os vetores a serem somados, e o parâmetro res é um ponteiro para uma estrutura vetor onde o resultado da operação deve ser armazenado.</p>**
 
